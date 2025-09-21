@@ -1,2 +1,2 @@
-# ffatihshn.github.io
+https://ffatihshn.github.io
 My personel portfolio 
